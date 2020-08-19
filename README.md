@@ -1,6 +1,6 @@
 # python_jarvis
 Tried to make a bot using Python Script, that would open and close the windows application and also search on the browser according to user instruction.
-Internal code details.
+Internal code details:
 1. In 't' we are storing all true vale response.
 2. In 'f' we are storing all true vale response.
 3. In 'p' we are storing all the program names.
