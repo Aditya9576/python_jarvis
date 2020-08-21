@@ -8,7 +8,7 @@ Internal code details:
 5. To search any website write the name/url of the website with 'search' prefix.
 6. Type 'voice_set' to change Voice Settings.
   ->This program have voice facility .
-  ->You can activate or de activate the voice output.
+  ->By default it is turned off,but you can always activate or de activate the voice output.
   ->Can choose between two Voice Output (Jarvis or Alexa)
  7. This file create a cache file in local "D" directory.
  Cache File path can be changed from the code also.
